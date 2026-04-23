@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body {
+    background: rgb(255, 62, 187);
+    color: rgb(113, 14, 155);
+}
+
+h1 {
+    color: black;
+}
+
+p {
+    color: aliceblue;
+    font-size: 250px;
+    text-align: center;
+    border-bottom: 20px solid aliceblue;
+}
